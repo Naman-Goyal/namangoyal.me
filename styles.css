@@ -123,6 +123,7 @@ body,html {
 }
 
 .series {
+	margin-top: 20px;
 	margin-left: 90px;
 	font-family: cursive;
 }
